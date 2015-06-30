@@ -9,3 +9,10 @@
 	</test>
 	
 	</suite>
+	<suite name="TestSuite2" verbose="3">
+
+	<test name="2nd Test">
+		<classes>
+			<class name="sample.webtek.test.SanityTest2" />
+		</classes>
+	</test>

@@ -22,7 +22,7 @@ public class SinginAction extends SelTestCase {
 		
 		
 		try {
-			LoginPage.EnterPassword.sendKeys("itskoushik.mitra@gmail.com");
+			LoginPage.EnteruserID.sendKeys("itskoushik.mitra@gmail.com");
 			Log.info("Entering values to user id");
 		}
 		catch(Exception e){

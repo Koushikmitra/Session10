@@ -11,9 +11,11 @@ public class PurchaseAction extends SelTestCase{
 
 public static void execute() throws Exception{
 	
+	Thread.sleep(2000);
+	
 	try{
-		CheckoutPage.ProceedtoCheckout.click();
-		Log.info("Proceed to checking out");
+		CheckoutPage.ProceedtocheckoutAftercompare.click();
+		Log.info("Proceed to checking out after compare");
 	}
 	catch(Exception e){
 	Log.error("Checkout out didn't found");

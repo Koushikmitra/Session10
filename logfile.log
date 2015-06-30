@@ -1,0 +1,140 @@
+2015-06-21 11:13:46,935 INFO  [Log] Openign the browser with the given URL 
+2015-06-21 11:13:47,341 INFO  [Log] **************************************************************************************** 
+2015-06-21 11:13:47,341 INFO  [Log] **************************************************************************************** 
+2015-06-21 11:13:47,341 INFO  [Log]                                sTestCaseName                                        
+2015-06-21 11:13:47,341 INFO  [Log] **************************************************************************************** 
+2015-06-21 11:13:47,341 INFO  [Log] **************************************************************************************** 
+2015-06-21 11:13:47,575 INFO  [Log] Signin Link found 
+2015-06-21 11:13:50,232 INFO  [Log] Entering values to user id 
+2015-06-21 11:13:50,310 INFO  [Log] Entering Password 
+2015-06-21 11:13:53,422 INFO  [Log] Clicking on submit button 
+2015-06-21 11:13:53,579 INFO  [Log] Casual dress submenu does not found 
+2015-06-21 11:13:53,579 INFO  [Log] Product selection has been failed 
+2015-06-21 11:14:24,689 INFO  [Log] Compare button does not found 
+2015-06-21 11:14:24,689 INFO  [Log] Compare rate could not be done 
+2015-06-21 11:14:56,830 INFO  [Log] Checkout out didn't found 
+2015-06-21 11:14:58,373 INFO  [Log] Closing the browser 
+2015-06-23 21:48:16,905 INFO  [Log] Openign the browser with the given URL 
+2015-06-23 21:48:17,390 INFO  [Log] **************************************************************************************** 
+2015-06-23 21:48:17,390 INFO  [Log] **************************************************************************************** 
+2015-06-23 21:48:17,390 INFO  [Log]                                sTestCaseName                                        
+2015-06-23 21:48:17,390 INFO  [Log] **************************************************************************************** 
+2015-06-23 21:48:17,390 INFO  [Log] **************************************************************************************** 
+2015-06-23 21:48:17,593 INFO  [Log] Signin Link found 
+2015-06-23 21:48:20,983 INFO  [Log] Entering values to user id 
+2015-06-23 21:48:21,093 INFO  [Log] Entering Password 
+2015-06-23 21:48:26,414 INFO  [Log] Clicking on submit button 
+2015-06-23 21:48:26,602 INFO  [Log] Casual dress submenu does not found 
+2015-06-23 21:48:26,602 INFO  [Log] Product selection has been failed 
+2015-06-23 21:48:57,767 INFO  [Log] Compare button does not found 
+2015-06-23 21:48:57,767 INFO  [Log] Compare rate could not be done 
+2015-06-23 21:49:29,939 INFO  [Log] Checkout out didn't found 
+2015-06-23 21:49:31,978 INFO  [Log] Closing the browser 
+2015-06-23 22:16:57,531 INFO  [Log] Opening the browser with the given URL 
+2015-06-23 22:16:57,921 INFO  [Log] **************************************************************************************** 
+2015-06-23 22:16:57,921 INFO  [Log] **************************************************************************************** 
+2015-06-23 22:16:57,921 INFO  [Log]                                sTestCaseName                                        
+2015-06-23 22:16:57,921 INFO  [Log] **************************************************************************************** 
+2015-06-23 22:16:57,921 INFO  [Log] **************************************************************************************** 
+2015-06-23 22:16:58,125 INFO  [Log] Signin Link found 
+2015-06-23 22:17:24,523 INFO  [Log] Entering values to user id 
+2015-06-23 22:17:25,116 INFO  [Log] Entering Password 
+2015-06-23 22:17:33,470 INFO  [Log] Clicking on submit button 
+2015-06-23 22:17:33,767 INFO  [Log] Casual dress submenu does not found 
+2015-06-23 22:17:33,767 INFO  [Log] Product selection has been failed 
+2015-06-23 22:18:04,853 INFO  [Log] Compare button does not found 
+2015-06-23 22:18:04,853 INFO  [Log] Compare rate could not be done 
+2015-06-23 22:18:36,933 INFO  [Log] Checkout out didn't found 
+2015-06-23 22:18:38,657 INFO  [Log] Closing the browser 
+2015-06-28 12:11:23,880 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:11:24,791 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:11:24,791 INFO  [Log] Product selection has been failed 
+2015-06-28 12:11:55,964 INFO  [Log] Compare button does not found 
+2015-06-28 12:11:55,964 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:12:28,081 INFO  [Log] Checkout out didn't found 
+2015-06-28 12:12:34,330 INFO  [Log] Closing the browser 
+2015-06-28 12:13:43,226 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:13:43,919 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:13:43,919 INFO  [Log] Product selection has been failed 
+2015-06-28 12:14:15,026 INFO  [Log] Compare button does not found 
+2015-06-28 12:14:15,026 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:14:46,410 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:14:46,744 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:14:46,744 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:14:46,744 INFO  [Log]                                sTestCaseName                                        
+2015-06-28 12:14:46,744 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:14:46,744 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:14:46,941 INFO  [Log] Signin Link found 
+2015-06-28 12:14:49,546 INFO  [Log] Entering values to user id 
+2015-06-28 12:14:49,633 INFO  [Log] Entering Password 
+2015-06-28 12:14:53,188 INFO  [Log] Clicking on submit button 
+2015-06-28 12:14:53,521 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:14:53,522 INFO  [Log] Product selection has been failed 
+2015-06-28 12:15:24,619 INFO  [Log] Compare button does not found 
+2015-06-28 12:15:24,619 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:15:56,784 INFO  [Log] Checkout out didn't found 
+2015-06-28 12:15:58,966 INFO  [Log] Closing the browser 
+2015-06-28 12:17:42,090 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:17:42,510 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:17:42,510 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:17:42,510 INFO  [Log]                                sTestCaseName                                        
+2015-06-28 12:17:42,510 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:17:42,510 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:17:42,724 INFO  [Log] Signin Link found 
+2015-06-28 12:17:45,450 INFO  [Log] Entering values to user id 
+2015-06-28 12:17:45,534 INFO  [Log] Entering Password 
+2015-06-28 12:17:48,932 INFO  [Log] Clicking on submit button 
+2015-06-28 12:17:49,368 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:17:49,368 INFO  [Log] Product selection has been failed 
+2015-06-28 12:18:20,461 INFO  [Log] Compare button does not found 
+2015-06-28 12:18:20,461 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:18:52,633 INFO  [Log] Checkout out didn't found 
+2015-06-28 12:18:54,351 INFO  [Log] Closing the browser 
+2015-06-28 12:28:29,419 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:28:29,817 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:28:29,817 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:28:29,818 INFO  [Log]                                sTestCaseName                                        
+2015-06-28 12:28:29,818 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:28:29,818 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:28:30,018 INFO  [Log] Signin Link found 
+2015-06-28 12:28:32,793 INFO  [Log] Entering values to user id 
+2015-06-28 12:28:32,875 INFO  [Log] Entering Password 
+2015-06-28 12:28:36,267 INFO  [Log] Clicking on submit button 
+2015-06-28 12:28:36,596 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:28:36,596 INFO  [Log] Product selection has been failed 
+2015-06-28 12:28:46,505 INFO  [Log] We are now clicking on Compare button 
+2015-06-28 12:29:16,596 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:29:48,695 INFO  [Log] Checkout out didn't found 
+2015-06-28 12:29:51,066 INFO  [Log] Closing the browser 
+2015-06-28 12:33:05,262 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:33:05,649 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:33:05,649 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:33:05,649 INFO  [Log]                                sTestCaseName                                        
+2015-06-28 12:33:05,649 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:33:05,649 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:33:05,848 INFO  [Log] Signin Link found 
+2015-06-28 12:33:08,465 INFO  [Log] Entering values to user id 
+2015-06-28 12:33:09,138 INFO  [Log] Entering Password 
+2015-06-28 12:33:11,605 INFO  [Log] Clicking on submit button 
+2015-06-28 12:33:11,880 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:33:11,880 INFO  [Log] Product selection has been failed 
+2015-06-28 12:33:42,927 INFO  [Log] Compare button does not found 
+2015-06-28 12:33:42,927 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:34:15,077 INFO  [Log] Checkout out didn't found 
+2015-06-28 12:34:16,591 INFO  [Log] Closing the browser 
+2015-06-28 12:45:22,617 INFO  [Log] Opening the browser with the given URL 
+2015-06-28 12:45:22,979 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:45:22,979 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:45:22,979 INFO  [Log]                                sTestCaseName                                        
+2015-06-28 12:45:22,979 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:45:22,979 INFO  [Log] **************************************************************************************** 
+2015-06-28 12:45:23,177 INFO  [Log] Signin Link found 
+2015-06-28 12:45:27,508 INFO  [Log] Entering values to user id 
+2015-06-28 12:45:28,175 INFO  [Log] Entering Password 
+2015-06-28 12:45:30,959 INFO  [Log] Clicking on submit button 
+2015-06-28 12:45:31,245 INFO  [Log] Casual dress submenu does not found 
+2015-06-28 12:45:31,245 INFO  [Log] Product selection has been failed 
+2015-06-28 12:46:02,324 INFO  [Log] Compare button does not found 
+2015-06-28 12:46:02,324 INFO  [Log] Compare rate could not be done 
+2015-06-28 12:46:34,482 INFO  [Log] Checkout out didn't found 
+2015-06-28 12:46:36,074 INFO  [Log] Closing the browser 

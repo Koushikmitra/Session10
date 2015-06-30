@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Reporter;
 
 import com.webtek.pages.DashboardPage;
 import com.webtek.pages.ProductPage;
@@ -18,14 +19,17 @@ public class ProductSelectAction extends SelTestCase {
 	public static void execute() throws Exception{
 		
 		// mouse hover action
+		Thread.sleep(100);
 		try{
 			Actions action= new Actions(driver);
 			WebElement mainMenu=DashboardPage.SelectmainMenu;
 			action.moveToElement(mainMenu).moveToElement(DashboardPage.SubmenuCasual).click().build().perform();
 			Log.info("Selecting Casual dresses navigating from main menu Dresses");
+			Reporter.log("Selecting Casual dresses navigating from main menu Dresses");
 		}
 		catch (Exception e){
 			Log.error("Casual dress submenu does not found");
+			Reporter.log("Casual dress submenu does not found");
 			throw e;
 		}
 		
@@ -74,7 +78,7 @@ public class ProductSelectAction extends SelTestCase {
 				Log.info("Clicking on List view for Summer product");
 			}
 			catch(Exception e){
-			Log.error("Webelement List view dpes not found");	
+			Log.error("Webelement List view does not found");	
 			throw e;
 			}
 			

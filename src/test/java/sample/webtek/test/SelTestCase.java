@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.OutputType;
@@ -15,7 +14,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.Augmenter;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
-
 import sample.webtek.helper.Log;
 
 
@@ -24,13 +22,17 @@ public class SelTestCase {
 
 	public static WebDriver driver;
 	public static List<WebElement> elements;
+	
+	/*static Random rand = new Random();
+	protected static String email = rand.nextInt(100) + "@email.com";*/
+	
 	@BeforeSuite
 	public void SetUp() throws Exception {
 		DOMConfigurator.configure("log4j.xml");
 		try {
 			driver = new FirefoxDriver();
 			driver.get("http://automationpractice.com/index.php");
-			Log.info("Openign the browser with the given URL");
+			Log.info("Opening the browser with the given URL");
 			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		} catch (Exception e) {

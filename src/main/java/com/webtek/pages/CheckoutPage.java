@@ -19,5 +19,8 @@ public class CheckoutPage {
 	@FindBy(how=How.XPATH, using=".//*[@id='center_column']/form/p/button")
 	public static WebElement AddressCheckout;
 	
+	@FindBy(how=How.XPATH, using=".//*[@id='layer_cart']/div[1]/div[2]/div[4]/a/span")
+	public static WebElement ProceedtocheckoutAftercompare;
+	
 		
 }

@@ -23,5 +23,11 @@ public class LoginPage {
 	@FindBy(how=How.ID, using="SubmitLogin")
 	public static WebElement SubmitSignin;
 	
-			
+	@FindBy(how=How.ID,using="email_create")
+	public static WebElement EmailCreate;
+	
+	@FindBy(how=How.ID,using="SubmitCreate")
+	public static WebElement SubmitemailCreate;
+	
+    			
 }
