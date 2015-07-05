@@ -22,6 +22,12 @@ public class DashboardPage {
 
 	@FindBy(how = How.CSS, using = "#block_top_menu>ul>li:nth-of-type(2)>ul>li:nth-of-type(3)>a")
 	public static WebElement SubmenuCasual;
+	
+	@FindBy(how = How.XPATH, using = ".//*[@id='block_top_menu']/ul/li[2]/a")
+	public static WebElement mainManu;
+
+	@FindBy(how = How.CSS, using = "#block_top_menu>ul>li:nth-of-type(2)>ul>li:nth-of-type(3)>a")
+	public static WebElement subMenu;
 
 	@FindBy(how = How.XPATH, using = ".//*[@id='block_top_menu']/ul/li[2]/ul/li[3]/a")
 	public static WebElement SubmenuSummer;

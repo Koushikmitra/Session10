@@ -1,18 +1,13 @@
 package com.webtek.actions;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
-
-import com.webtek.pages.DashboardPage;
-import com.webtek.pages.ProductPage;
-
 import sample.webtek.helper.Log;
 import sample.webtek.test.SelTestCase;
+import com.webtek.pages.DashboardPage;
+import com.webtek.pages.ProductPage;
 
 public class ProductSelectAction extends SelTestCase {
 
@@ -21,9 +16,15 @@ public class ProductSelectAction extends SelTestCase {
 		// mouse hover action
 		Thread.sleep(100);
 		try{
-			Actions action= new Actions(driver);
+			/*Actions action= new Actions(driver);
 			WebElement mainMenu=DashboardPage.SelectmainMenu;
-			action.moveToElement(mainMenu).moveToElement(DashboardPage.SubmenuCasual).click().build().perform();
+			action.moveToElement(mainMenu).moveToElement(DashboardPage.SubmenuCasual).click().build().perform();*/
+			
+			Actions action = new Actions(driver);
+			WebElement mainMenu = DashboardPage.mainManu;
+			action.moveToElement(mainMenu).moveToElement(DashboardPage.subMenu)
+					.click().build().perform();
+			
 			Log.info("Selecting Casual dresses navigating from main menu Dresses");
 			Reporter.log("Selecting Casual dresses navigating from main menu Dresses");
 		}
