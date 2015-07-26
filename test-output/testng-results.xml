@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
     <line>
-      <![CDATA[Casual dress submenu does not found]]>
+      <![CDATA[Selecting Casual dresses navigating from main menu Dresses]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="70060" started-at="2015-07-05T06:27:50Z" finished-at="2015-07-05T06:29:00Z">
+  <suite name="Default suite" duration-ms="82040" started-at="2015-07-22T16:24:50Z" finished-at="2015-07-22T16:26:12Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="70060" started-at="2015-07-05T06:27:50Z" finished-at="2015-07-05T06:29:00Z">
+    <test name="Default test" duration-ms="82040" started-at="2015-07-22T16:24:50Z" finished-at="2015-07-22T16:26:12Z">
       <class name="sample.webtek.test.SanityTest1">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="SetUp" is-config="true" duration-ms="44725" started-at="2015-07-05T11:57:05Z" finished-at="2015-07-05T11:57:50Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="SetUp" is-config="true" duration-ms="58304" started-at="2015-07-22T21:53:51Z" finished-at="2015-07-22T21:54:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="userSignIn()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="userSignIn" duration-ms="6578" started-at="2015-07-05T11:57:50Z" finished-at="2015-07-05T11:57:56Z">
+        <test-method status="PASS" signature="userSignIn()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="userSignIn" duration-ms="11347" started-at="2015-07-22T21:54:50Z" finished-at="2015-07-22T21:55:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userSignIn -->
-        <test-method status="PASS" signature="ProductCheckOut()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="ProductCheckOut" duration-ms="63466" started-at="2015-07-05T11:57:56Z" finished-at="2015-07-05T11:59:00Z">
+        <test-method status="PASS" signature="ProductCheckOut()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="ProductCheckOut" duration-ms="70568" started-at="2015-07-22T21:55:01Z" finished-at="2015-07-22T21:56:12Z">
           <reporter-output>
             <line>
-              <![CDATA[Casual dress submenu does not found]]>
+              <![CDATA[Selecting Casual dresses navigating from main menu Dresses]]>
             </line>
           </reporter-output>
         </test-method> <!-- ProductCheckOut -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="tearDown" is-config="true" duration-ms="1426" started-at="2015-07-05T11:59:00Z" finished-at="2015-07-05T11:59:01Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:sample.webtek.test.SanityTest1@2a18f23c]" name="tearDown" is-config="true" duration-ms="1858" started-at="2015-07-22T21:56:12Z" finished-at="2015-07-22T21:56:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

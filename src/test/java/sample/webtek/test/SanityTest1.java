@@ -84,8 +84,13 @@ public class SanityTest1 extends SelTestCase {
 
 		try {
 			PurchaseAction.execute();
-		} catch (Exception e) {
+			Log.info("Purchase has been successfully done");
+		} 
+		catch (Exception e) {
+			Log.error("Purchase failed");
 
 		}
+		
 	}
+	
 }
